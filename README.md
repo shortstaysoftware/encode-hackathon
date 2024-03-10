@@ -21,3 +21,7 @@ https://www.figma.com/file/95zc9av2q5Ua14WDVewdLl/investi-app?type=design&node-i
 
 #### :family_man_woman_girl_boy: Team
 ![Team](https://github.com/shortstaysoftware/encode-hackathon/blob/main/team.png)
+
+
+### :video_camera: Pitch deck video
+![Video](https://liveuclac-my.sharepoint.com/personal/zcicsa5_ucl_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fzcicsa5%5Fucl%5Fac%5Fuk%2FDocuments%2Finvesti%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
