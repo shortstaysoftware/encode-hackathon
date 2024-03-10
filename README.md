@@ -1,5 +1,5 @@
 # Investi @ Encode Hackathon
-![Investi](https://github.com/shortstaysoftware/encode-hackathon/blob/main/dsdsdsds.png) 
+![Investi](https://github.com/shortstaysoftware/encode-hackathon/blob/main/logo.png) 
 
 Investi is a personal AI investment coach tailored for first-generation investors, offering guidance through every step of starting their first investment. It suggests suitable brokerage accounts and investment strategies, providing continuous coaching in areas of interest. The project targets a market with a Total Addressable Market (TAM) of £9 Billion, aiming for a 5% market share in investment courses within the $185 billion E-learning industry. The go-to-market strategy focuses on US Gen Z through university campaigns, social media collaborations with financial influencers, and paid advertising. Investi operates on a freemium subscription model, with additional revenue from corporate clients who purchase accounts in bulk for employee benefits. We built Investi using Bubble/OpenAI AP and added personalization utilizing Prompt Engineering.
 Investi is now live and available to use!
